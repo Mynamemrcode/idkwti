@@ -1,0 +1,24 @@
+#nope
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#result {
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#bruht
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#no
+{
+    width: 300px;
+}
